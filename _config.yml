@@ -1,6 +1,6 @@
 name: Defec8edc0de InfoSec Blog
 markdown: kramdown
-permalink: /:year/:month/:day/:title
+permalink: :year/:month/:day/:title
 plugins:
   - jekyll-sitemap
 
